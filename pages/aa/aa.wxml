@@ -1,0 +1,96 @@
+<!--pages/aa/aa.wxml-->
+<view class="top">
+   <image class="left" src="../tp/24.png"></image>
+   <view class="class">书法培训班</view>
+   <image class="set" src="../tp/26.png"></image>
+</view>
+<view class="banner_bj">
+    <image class="banner" src="../tp/25.jpg"></image>
+</view>
+
+<input class="please" type="text"  />
+<view class="classification">
+    <view class="study">我要学书法</view>
+    <view class="train">书法培训机构</view>
+</view>
+<view class="adult_bj">
+    <image class="adult_tp" src="../tp/2.png"></image>
+    <view class="introduce_bj1">
+        <view class="bt1">书艺公社成人书法班</view>
+        <view class="rate">
+          <image class="time" src="../tp/3.png"></image>
+          <view class="time_wb">2017-05-19</view>
+        </view>
+        <view class="Thumb_up_bj">
+           <image class="look" src="../tp/6.png"></image>
+           <view class="numeral1">1112</view>
+          <image class="yes" src="../tp/4.png"></image>
+          <view class="numeral2">0</view>
+        </view>
+    </view>
+</view>
+<view class="adult_bj1">
+     <image class="adult_tp1" src="../tp/5.png"></image>
+     <view class="introduce_bj2">
+        <view class="bt2">书艺公社书法学堂私塾（北京东直门）</view>
+        <view class="rate1">
+           <image class="time1" src="../tp/3.png"></image>
+           <view class="time_wb1">2017-05-13</view>
+        </view>
+        <view class="Thumb_up_bj1">
+           <image class="look1" src="../tp/6.png"></image>
+           <view class="numeral3">381</view>
+           <image class="yes1" src="../tp/4.png"></image>
+           <view class="numeral4">0</view>
+        </view>
+     </view>
+</view>
+<view class="adult_bj2">
+     <image class="adult_tp2" src="../tp/7.png"></image>
+     <view class="introduce_bj3">
+        <view class="bt3">书艺公社书青少年法班</view>
+        <view class="rate2">
+             <image class="time3" src="../tp/3.png"></image>
+             <view class="time_wb2">2017-05-13</view>
+        </view>
+         <view class="Thumb_up_bj1">
+           <image class="look2" src="../tp/6.png"></image>
+           <view class="numeral5">381</view>
+           <image class="yes2" src="../tp/4.png"></image>
+           <view class="numeral6">0</view>
+         </view>
+     </view>
+</view>
+<view class="adult_bj3">
+     <image class="adult_tp3" src="../tp/8.png"></image>
+     <view class="introduce_bj4">
+         <view class="bt4">一周练笔练字班</view>
+          <view class="rate3">
+             <image class="time4" src="../tp/3.png"></image>
+             <view class="time_wb3">2017-05-13</view>
+          </view>
+          <view class="Thumb_up_bj2">
+           <image class="look3" src="../tp/6.png"></image>
+           <view class="numeral7">970</view>
+           <image class="yes3" src="../tp/4.png"></image>
+           <view class="numeral8">0</view>
+          
+          </view>
+     </view>
+</view>
+<!-- <view class="bottom">
+      <view class="page_bj">
+        <image class="page_tp" src="../tp/35.png"></image>
+        <view class="page">首页</view>
+      </view>
+      <view class="pen_bj">
+        <image class="pen_tp" src="../tp/33.png"></image>
+        <view class="pen">书法培训班</view>
+      </view>
+      <view class="my_bj">
+        <image class="my_tp" src="../tp/34.png"></image>
+        <view class="my">我的</view>
+      </view>
+</view> -->
+
+
